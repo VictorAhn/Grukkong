@@ -1,0 +1,4 @@
+---
+applications:
+- name: Grukkong
+  buildpack: https://github.com/cloudfoundry/php-buildpack#v3.2.2
